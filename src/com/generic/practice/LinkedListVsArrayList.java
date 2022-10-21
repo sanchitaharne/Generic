@@ -13,7 +13,7 @@ public class LinkedListVsArrayList {
 
         System.out.println(namesLinkedList.get(2));
         namesLinkedList.add(2, "akshara");
-
+        System.out.println(namesLinkedList.get(2));
         ArrayList<String> namesArrayList = new ArrayList<>();
         namesArrayList.add("sanchita");
         namesArrayList.add("nithya");
