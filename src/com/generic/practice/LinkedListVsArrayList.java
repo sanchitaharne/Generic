@@ -1,5 +1,6 @@
 package com.generic.practice;
 
+
 import java.util.ArrayList;
 import java.util.LinkedList;
 
@@ -25,7 +26,5 @@ public class LinkedListVsArrayList {
         //arraylist is effecient in traversing the array and get the element but way slower than linked list while adding a new element
         //LinkedList is effecient in adding new elements
 
-
     }
-
 }
